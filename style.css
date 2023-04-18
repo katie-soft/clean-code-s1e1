@@ -147,12 +147,12 @@ button {
 
 /* Edit Task */
 .task__input {
-    display: none
+    display: none;
 }
 
 .task-list__item.editable .task__input {
     display: inline-block;
-    width: 320px
+    width: 320px;
 }
 
 .task-list__item.editable .task__name {
